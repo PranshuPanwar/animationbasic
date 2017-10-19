@@ -1,0 +1,10 @@
+.new1{
+    width:400px;
+    height: 600px;
+    margin: auto;
+    background-color: red;
+}
+.new1:hover{
+    background-color: grey;
+    transition: background-color 1s ease-in;
+}
